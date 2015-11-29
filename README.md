@@ -1,5 +1,8 @@
 # Project2PotLuckRecipes
 OOP project 2
 
-Tables:
-Members: Filipe
+Owen Ramsay        Comments
+Alexander Jang        Recipes
+Filipe Botelho       Member
+Kenia Diaz        Ingredients
+Alex McCaul        Tags
